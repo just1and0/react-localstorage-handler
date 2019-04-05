@@ -110,9 +110,7 @@ return status; //will return  true is value exsist and false  if it doesn't
   
 
 |Name| Use |
-
 |--|--|
-
 | checkStorage | check is a key is saved in local storage |
 
   
