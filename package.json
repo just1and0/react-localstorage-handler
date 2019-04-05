@@ -1,6 +1,6 @@
 {
   "name": "react-localstorage-handler",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This package helps handle localstorage data. It can check if a key in localstorage exsist",
   "main": "index.js",
   "repository": {
