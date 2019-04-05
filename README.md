@@ -1,6 +1,9 @@
 # React-localStorage-handler
 
-  
+  [![Build Status](https://travis-ci.com/just1and0/React-localStorage-handler.svg?branch=master)](https://travis-ci.com/just1and0/React-localStorage-handler)
+  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/just1and0/React-localStorage-handler/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/just1and0/React-localStorage-handler/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/just1and0/React-localStorage-handler/badges/build.png?b=master)](https://scrutinizer-ci.com/g/just1and0/React-localStorage-handler/build-status/master)
+
   
 
  
@@ -44,7 +47,7 @@ $ yarn add React-localStorage-handler
 //import the checkStorage into your project
  
 
-import { checkStorage } from 'React-localStorage-handler';
+import { checkStorage } from 'react-localstorage-handler';
 
 //and then use like so
 

@@ -1,6 +1,6 @@
 {
-  "name": "React-localStorage-handler",
-  "version": "1.0.0",
+  "name": "react-localstorage-handler",
+  "version": "1.0.3",
   "description": "This package helps handle localstorage data. It can check if a key in localstorage exsist",
   "main": "index.js",
   "repository": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/just1and0/React-localStorage-handler/issues"
   },
-  "homepage": "https://github.com/just1and0/React-localStorage-handler#readme"
+  "homepage": "https://github.com/just1and0/React-localStorage-handler#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
+ 
