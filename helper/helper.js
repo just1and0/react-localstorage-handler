@@ -1,7 +1,7 @@
 const props = {
 
     checkStorage: function(key){
-            if (localStorage.getItem(key) === null) {
+            if (localStorage.getItem(key).length == 0 ) {
                 return false; 
             }else{
                 return true;
