@@ -6,7 +6,14 @@ const props = {
             }else{
                 return true;
             }
-       }
+       },
+
+       addStorage: function(key, value){
+         
+   }
+
+
+
 }
 
 export default props;
