@@ -1,6 +1,6 @@
 import props from './helper/helper.js'
 
-const {checkStorage } = props;
+const {checkStorage, addStorage, getStorage, removeStorage, clearStorage  } = props;
 
-export { checkStorage };
+export { checkStorage, addStorage, getStorage, removeStorage, clearStorage };
 
